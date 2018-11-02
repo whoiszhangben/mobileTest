@@ -1,0 +1,316 @@
+2018/11/02 09:44:18 [Server] Starting 
+2018/11/02 09:44:18 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 09:44:18 [Server] Started 
+2018/11/02 09:44:18 [AutoSet] Start 
+2018/11/02 09:44:30 [Server] Stoping 
+2018/11/02 09:44:31 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 09:44:36 [Server] Stoped 
+2018/11/02 09:44:36 [AutoSet] Stop 
+2018/11/02 09:44:36 [Purging-EX] 正在中止线程。 
+2018/11/02 09:46:29 [Server] Starting 
+2018/11/02 09:46:29 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 09:46:29 [Server] Started 
+2018/11/02 09:46:29 [AutoSet] Start 
+2018/11/02 09:47:00 [192.168.137.32:49389] ClientAccept 
+2018/11/02 09:47:01 [192.168.137.32:49389] Client HandShake 
+2018/11/02 09:47:01 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 09:47:01 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 09:47:01 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 09:47:03 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 09:47:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 09:47:36 [Server] Stoping 
+2018/11/02 09:47:36 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/02 09:47:36 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 09:47:36 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/02 09:47:41 [Purging-EX] 正在中止线程。 
+2018/11/02 09:47:41 [Server] Stoped 
+2018/11/02 09:47:41 [AutoSet] Stop 
+2018/11/02 09:48:30 [Server] Starting 
+2018/11/02 09:48:31 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 09:48:31 [Server] Started 
+2018/11/02 09:48:31 [AutoSet] Start 
+2018/11/02 09:48:35 [192.168.137.32:49394] ClientAccept 
+2018/11/02 09:48:35 [192.168.137.32:49394] Client HandShake 
+2018/11/02 09:48:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 09:48:35 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 09:48:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 09:48:36 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 09:48:37 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 09:53:35 [Server] Stoping 
+2018/11/02 09:53:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/02 09:53:35 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 09:53:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/02 09:53:40 [Purging-EX] 正在中止线程。 
+2018/11/02 09:53:40 [Server] Stoped 
+2018/11/02 09:53:40 [AutoSet] Stop 
+2018/11/02 09:56:30 [Server] Starting 
+2018/11/02 09:56:30 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 09:56:30 [Server] Started 
+2018/11/02 09:56:30 [AutoSet] Start 
+2018/11/02 09:56:42 [192.168.137.32:49406] ClientAccept 
+2018/11/02 09:56:42 [192.168.137.32:49406] Client HandShake 
+2018/11/02 09:56:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 09:56:42 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 09:56:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 09:56:43 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 09:56:45 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 09:56:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 09:58:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/02 09:58:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmEmpProfile 
+2018/11/02 09:58:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/02 09:58:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmEmpProfile 
+2018/11/02 09:59:38 [192.168.137.32:49406] EndReceive 0 - ShutDown 
+2018/11/02 09:59:41 [Server] Stoping 
+2018/11/02 09:59:41 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 09:59:41 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/02 09:59:41 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/02 09:59:46 [Purging-EX] 正在中止线程。 
+2018/11/02 09:59:46 [Server] Stoped 
+2018/11/02 09:59:46 [AutoSet] Stop 
+2018/11/02 10:02:14 [Server] Starting 
+2018/11/02 10:02:14 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 10:02:14 [Server] Started 
+2018/11/02 10:02:14 [AutoSet] Start 
+2018/11/02 10:02:18 [192.168.137.32:49437] ClientAccept 
+2018/11/02 10:02:18 [192.168.137.32:49437] Client HandShake 
+2018/11/02 10:02:18 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 10:02:18 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/02 10:02:18 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/02 10:02:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 10:02:20 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/02 10:02:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 10:03:09 [192.168.137.32:49437] EndReceive 0 - ShutDown 
+2018/11/02 10:05:58 [Server] Starting 
+2018/11/02 10:05:58 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 10:05:58 [Server] Started 
+2018/11/02 10:05:59 [AutoSet] Start 
+2018/11/02 10:06:05 [192.168.137.32:49440] ClientAccept 
+2018/11/02 10:06:05 [192.168.137.32:49440] Client HandShake 
+2018/11/02 10:06:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 10:06:05 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 10:06:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 10:06:06 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 10:06:07 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 10:06:17 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 10:06:36 [Server] Stoping 
+2018/11/02 10:06:36 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/02 10:06:36 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/02 10:06:36 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 10:06:41 [Purging-EX] 正在中止线程。 
+2018/11/02 10:06:41 [Server] Stoped 
+2018/11/02 10:06:41 [AutoSet] Stop 
+2018/11/02 10:10:24 [Server] Starting 
+2018/11/02 10:10:24 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 10:10:25 [Server] Started 
+2018/11/02 10:10:25 [AutoSet] Start 
+2018/11/02 10:10:29 [192.168.137.32:49445] ClientAccept 
+2018/11/02 10:10:29 [192.168.137.32:49445] Client HandShake 
+2018/11/02 10:10:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 10:10:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/02 10:10:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/02 10:10:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 10:10:31 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/02 10:10:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 10:11:45 [192.168.137.32:49445] EndReceive 0 - ShutDown 
+2018/11/02 10:22:05 [Server] Starting 
+2018/11/02 10:22:05 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 10:22:05 [Server] Started 
+2018/11/02 10:22:05 [AutoSet] Start 
+2018/11/02 10:22:37 [192.168.137.32:49501] ClientAccept 
+2018/11/02 10:22:37 [192.168.137.32:49501] Client HandShake 
+2018/11/02 10:22:37 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 10:22:37 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/02 10:22:37 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/02 10:22:38 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 10:22:39 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/02 10:22:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 10:23:56 [192.168.137.32:49501] EndReceive 0 - ShutDown 
+2018/11/02 10:31:32 [Server] Stoping 
+2018/11/02 10:31:32 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 10:31:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/02 10:31:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/02 10:31:37 [Purging-EX] 正在中止线程。 
+2018/11/02 10:31:37 [Server] Stoped 
+2018/11/02 10:31:37 [AutoSet] Stop 
+2018/11/02 10:39:19 [Server] Starting 
+2018/11/02 10:39:19 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 10:39:19 [Server] Started 
+2018/11/02 10:39:20 [AutoSet] Start 
+2018/11/02 10:39:29 [192.168.137.32:49517] ClientAccept 
+2018/11/02 10:39:29 [192.168.137.32:49517] Client HandShake 
+2018/11/02 10:39:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 10:39:29 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 10:39:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 10:39:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 10:39:31 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 10:39:41 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 10:52:01 [Server] Starting 
+2018/11/02 10:52:01 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 10:52:01 [Server] Started 
+2018/11/02 10:52:01 [AutoSet] Start 
+2018/11/02 10:52:10 [192.168.137.32:49539] ClientAccept 
+2018/11/02 10:52:10 [192.168.137.32:49539] Client HandShake 
+2018/11/02 10:52:10 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 10:52:10 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 10:52:10 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 10:52:11 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 10:52:12 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 10:52:21 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 10:57:17 [192.168.137.32:49539] EndReceive 0 - ShutDown 
+2018/11/02 11:10:34 [Server] Starting 
+2018/11/02 11:10:34 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 11:10:34 [Server] Started 
+2018/11/02 11:10:34 [AutoSet] Start 
+2018/11/02 11:11:04 [192.168.137.32:49557] ClientAccept 
+2018/11/02 11:11:04 [192.168.137.32:49557] Client HandShake 
+2018/11/02 11:11:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 11:11:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/02 11:11:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/02 11:11:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/02 11:11:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 11:11:07 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/02 11:11:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 11:16:40 [192.168.137.32:49557] EndReceive 0 - ShutDown 
+2018/11/02 11:18:39 [Server] Starting 
+2018/11/02 11:18:39 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 11:18:39 [Server] Started 
+2018/11/02 11:18:39 [AutoSet] Start 
+2018/11/02 11:18:48 [192.168.137.32:49571] ClientAccept 
+2018/11/02 11:18:49 [192.168.137.32:49571] Client HandShake 
+2018/11/02 11:18:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 11:18:49 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 11:18:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 11:18:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 11:18:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 11:18:59 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 11:19:48 [Server] Stoping 
+2018/11/02 11:19:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/02 11:19:48 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/02 11:19:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/02 11:19:53 [Purging-EX] 正在中止线程。 
+2018/11/02 11:19:53 [Server] Stoped 
+2018/11/02 11:19:53 [AutoSet] Stop 
+2018/11/02 11:21:14 [Server] Starting 
+2018/11/02 11:21:14 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/02 11:21:14 [Server] Started 
+2018/11/02 11:21:14 [AutoSet] Start 
+2018/11/02 11:21:22 [192.168.137.32:49575] ClientAccept 
+2018/11/02 11:21:22 [192.168.137.32:49575] Client HandShake 
+2018/11/02 11:21:22 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/02 11:21:22 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/02 11:21:22 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/02 11:21:23 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/02 11:21:24 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/02 11:21:34 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmEmpProfile 
+2018/11/02 11:26:32 [192.168.137.32:49575] EndReceive 0 - ShutDown 

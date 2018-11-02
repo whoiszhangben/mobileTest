@@ -1,0 +1,439 @@
+2018/11/01 11:56:05 [Server] Starting 
+2018/11/01 11:56:06 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 11:56:06 [Server] Started 
+2018/11/01 11:56:06 [AutoSet] Start 
+2018/11/01 11:56:52 [192.168.137.32:59519] ClientAccept 
+2018/11/01 11:56:52 [192.168.137.32:59519] Client HandShake 
+2018/11/01 11:56:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 11:56:53 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 11:56:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 11:56:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 11:56:57 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 11:57:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRegisterTel 
+2018/11/01 11:57:56 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmVerificationCode 
+2018/11/01 11:58:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRegister 
+2018/11/01 12:01:41 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 12:01:41 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmRegister 
+2018/11/01 12:02:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 12:02:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmRegister 
+2018/11/01 12:03:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 12:03:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmRegister 
+2018/11/01 12:05:39 [Server] Starting 
+2018/11/01 12:05:39 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 12:05:39 [Server] Started 
+2018/11/01 12:05:39 [AutoSet] Start 
+2018/11/01 12:05:53 [192.168.137.32:59529] ClientAccept 
+2018/11/01 12:05:53 [192.168.137.32:59529] Client HandShake 
+2018/11/01 12:05:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 12:05:53 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 12:05:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 12:05:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 12:05:56 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 12:07:07 [192.168.137.32:59529] EndReceive 0 - ShutDown 
+2018/11/01 12:09:30 [192.168.137.32:59532] ClientAccept 
+2018/11/01 12:11:51 [192.168.137.32:59532] EndReceive 0 - ShutDown 
+2018/11/01 12:11:56 [192.168.137.32:59533] ClientAccept 
+2018/11/01 12:14:09 [Server] Starting 
+2018/11/01 12:14:09 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 12:14:09 [Server] Started 
+2018/11/01 12:14:09 [AutoSet] Start 
+2018/11/01 12:14:55 [192.168.137.32:59538] ClientAccept 
+2018/11/01 12:14:55 [192.168.137.32:59538] Client HandShake 
+2018/11/01 12:14:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 12:14:55 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 12:14:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 12:14:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 12:14:57 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 12:58:24 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] SessionTimeOut- 
+2018/11/01 12:58:24 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-SessionTimeOut-True-- 
+2018/11/01 12:58:24 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/01 12:58:54 [192.168.137.32:59790] ClientAccept 
+2018/11/01 12:58:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 12:58:54 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 12:58:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 12:58:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 12:58:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 13:00:20 [192.168.137.32:59790] EndReceive 0 - ShutDown 
+2018/11/01 13:00:26 [192.168.137.32:59793] ClientAccept 
+2018/11/01 13:00:31 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 13:01:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUserDetail 
+2018/11/01 13:01:11 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUserDetail 
+2018/11/01 13:01:11 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:01:23 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 13:01:28 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmWork 
+2018/11/01 13:01:52 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLeaveCreate 
+2018/11/01 13:02:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmLeaveCreate 
+2018/11/01 13:02:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Push-frmWork 
+2018/11/01 13:06:00 [Server] Starting 
+2018/11/01 13:06:01 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 13:06:01 [Server] Started 
+2018/11/01 13:06:01 [AutoSet] Start 
+2018/11/01 13:06:43 [Server] Stoping 
+2018/11/01 13:06:43 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/01 13:07:22 [Server] Starting 
+2018/11/01 13:07:22 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 13:07:22 [Server] Started 
+2018/11/01 13:07:22 [AutoSet] Start 
+2018/11/01 13:08:07 [192.168.137.32:59839] ClientAccept 
+2018/11/01 13:08:07 [192.168.137.32:59839] Client HandShake 
+2018/11/01 13:08:07 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 13:08:07 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 13:08:07 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 13:08:08 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 13:08:09 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 13:13:41 [192.168.137.32:59839] EndReceive 0 - ShutDown 
+2018/11/01 13:16:44 [Server] Starting 
+2018/11/01 13:16:44 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 13:16:44 [Server] Started 
+2018/11/01 13:16:44 [AutoSet] Start 
+2018/11/01 13:17:43 [192.168.137.32:59852] ClientAccept 
+2018/11/01 13:17:44 [192.168.137.32:59852] Client HandShake 
+2018/11/01 13:17:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 13:17:44 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 13:17:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 13:17:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 13:17:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 13:18:12 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 13:18:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 13:18:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 13:18:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:18:47 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 13:18:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 13:18:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:18:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRBCreate 
+2018/11/01 13:18:59 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRBCreate 
+2018/11/01 13:18:59 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:20:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 13:20:38 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmWork 
+2018/11/01 13:20:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 13:20:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 13:20:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Push-frmWork 
+2018/11/01 13:20:54 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 13:20:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 13:20:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:20:57 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 13:21:01 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 13:21:01 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:21:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 13:21:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 13:21:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:21:52 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCreated 
+2018/11/01 13:21:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCreated 
+2018/11/01 13:21:55 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:21:56 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCCTo 
+2018/11/01 13:21:58 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCCTo 
+2018/11/01 13:21:58 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:22:00 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 13:22:08 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 13:22:08 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:22:13 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmFile 
+2018/11/01 13:22:25 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmFile 
+2018/11/01 13:22:25 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:22:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmDepartment 
+2018/11/01 13:22:34 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmDepartment 
+2018/11/01 13:22:34 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:22:36 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLeaveCreate 
+2018/11/01 13:22:39 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmLeaveCreate 
+2018/11/01 13:22:39 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:22:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmConcent 
+2018/11/01 13:22:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Dump-BeginDataProcess-System.Exception: missing parameter appkey or appsecret
+   在 Smobiler.Plugins.RongIM.IM.InitialInstance(String appkey, String appsecret)
+   在 SmoONE.UI.Im.frmConcent.InitialIM() 位置 E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\Im\frmConcent.cs:行号 31
+   在 SmoONE.UI.Im.frmConcent.frmConcent_Load(Object sender, EventArgs e) 位置 E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\Im\frmConcent.cs:行号 68
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, Boolean moveClose, FormRedirectCallBackEventHandler callback, Object args)
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, FormRedirectCallBackEventHandler callback, Object args)
+   在 SmoONE.UI.Work.frmWork.MenuItem(String id) 位置 E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\Work\frmWork.cs:行号 122
+   在 SmoONE.UI.Work.frmWork.iconMenuData_ItemPress(Object sender, IconMenuViewItemPressEventArgs e) 位置 E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\Work\frmWork.cs:行号 39
+   在 Smobiler.Core.Controls.IconMenuView.(IconMenuViewGroup , IconMenuViewItem )
+   在 Smobiler.Core.Controls.IconMenuViewGroup.(Object , EventArgs )
+   在 Smobiler.Core.Controls.IconMenuViewItem.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 ..( )
+   在 ..( ) 
+2018/11/01 13:22:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-DUMP-False--系统从异常中恢复，异常信息：
+missing parameter appkey or appsecret
+详细信息请参见Server日志 
+2018/11/01 13:22:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with DUMP - 系统从异常中恢复，异常信息：
+missing parameter appkey or appsecret
+详细信息请参见Server日志 
+2018/11/01 13:22:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 13:22:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with DUMP 
+2018/11/01 13:22:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/01 13:23:13 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 13:28:06 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCreated 
+2018/11/01 13:28:08 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCreated 
+2018/11/01 13:28:08 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:28:10 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 13:28:11 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 13:28:11 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:28:13 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCCTo 
+2018/11/01 13:28:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCCTo 
+2018/11/01 13:28:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:30:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 13:33:44 [Server] Starting 
+2018/11/01 13:33:44 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 13:33:44 [Server] Started 
+2018/11/01 13:33:44 [AutoSet] Start 
+2018/11/01 13:34:42 [192.168.137.32:59947] ClientAccept 
+2018/11/01 13:34:42 [192.168.137.32:59947] Client HandShake 
+2018/11/01 13:34:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 13:34:42 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 13:34:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 13:34:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 13:34:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 13:35:18 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 13:35:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 13:35:37 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 13:35:37 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 13:35:43 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 13:40:43 [192.168.137.32:59947] EndReceive 0 - ShutDown 
+2018/11/01 14:05:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] SessionTimeOut- 
+2018/11/01 14:05:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-SessionTimeOut-True-- 
+2018/11/01 14:05:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/01 14:36:33 [192.168.137.32:60022] ClientAccept 
+2018/11/01 14:36:33 [192.168.137.32:60022] Client HandShake 
+2018/11/01 14:36:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 14:36:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/01 14:36:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/01 14:36:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 14:36:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/01 14:36:38 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 14:38:56 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 14:39:00 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmWork 
+2018/11/01 14:39:17 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCreated 
+2018/11/01 14:39:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCreated 
+2018/11/01 14:39:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Push-frmWork 
+2018/11/01 14:39:20 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 14:39:21 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 14:39:21 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 14:39:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUserDetail 
+2018/11/01 14:39:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUserDetail 
+2018/11/01 14:39:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 14:42:05 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-True 
+2018/11/01 14:42:09 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Initial-frmWork 
+2018/11/01 14:42:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-ReStart-False-- 
+2018/11/01 14:42:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ReStart -  
+2018/11/01 14:42:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 14:42:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/01 14:42:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ReStart 
+2018/11/01 14:42:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 14:47:21 [192.168.137.32:60022] EndReceive 0 - ShutDown 
+2018/11/01 15:12:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] SessionTimeOut- 
+2018/11/01 15:12:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-SessionTimeOut-True-- 
+2018/11/01 15:12:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/01 17:17:02 [192.168.137.32:60100] ClientAccept 
+2018/11/01 17:17:02 [192.168.137.32:60100] Client HandShake 
+2018/11/01 17:17:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 17:17:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/01 17:17:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/01 17:17:03 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 17:17:03 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/01 17:17:07 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 17:17:14 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 17:17:17 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 17:17:17 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:17:18 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 17:17:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 17:17:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:20:43 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCreated 
+2018/11/01 17:20:45 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCreated 
+2018/11/01 17:20:45 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:20:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCCTo 
+2018/11/01 17:20:47 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCCTo 
+2018/11/01 17:20:47 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:20:48 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 17:20:50 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 17:20:50 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:25:50 [192.168.137.32:60100] EndReceive 0 - ShutDown 
+2018/11/01 17:34:49 [192.168.137.32:60136] ClientAccept 
+2018/11/01 17:34:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 17:34:50 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 17:34:50 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:42:01 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 17:42:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 17:42:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:54:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 17:54:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 17:54:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:55:26 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmUser 
+2018/11/01 17:55:27 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmUser 
+2018/11/01 17:55:27 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 17:55:34 [192.168.137.32:60136] EndReceive 0 - ShutDown 
+2018/11/01 17:56:07 [192.168.137.32:60365] ClientAccept 
+2018/11/01 17:56:08 [192.168.137.32:60365] EndReceive 0 - ShutDown 
+2018/11/01 18:13:53 [192.168.137.32:60428] ClientAccept 
+2018/11/01 18:13:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 18:14:09 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 18:14:09 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:15:23 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 18:15:28 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 18:15:28 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:20:33 [Server] Starting 
+2018/11/01 18:20:33 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 18:20:33 [Server] Started 
+2018/11/01 18:20:33 [AutoSet] Start 
+2018/11/01 18:20:49 [192.168.137.32:60461] ClientAccept 
+2018/11/01 18:20:50 [192.168.137.32:60461] Client HandShake 
+2018/11/01 18:20:50 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 18:20:50 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 18:20:50 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 18:20:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 18:20:52 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 18:21:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 18:22:31 [Server] Stoping 
+2018/11/01 18:22:31 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoping-StopServer-True-- 
+2018/11/01 18:22:31 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStop-Stoped 
+2018/11/01 18:22:31 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2018/11/01 18:22:34 [Server] Stoped 
+2018/11/01 18:22:34 [AutoSet] Stop 
+2018/11/01 18:51:23 [Server] Starting 
+2018/11/01 18:51:23 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 18:51:23 [Server] Started 
+2018/11/01 18:51:23 [AutoSet] Start 
+2018/11/01 18:51:32 [192.168.137.32:60495] ClientAccept 
+2018/11/01 18:51:32 [192.168.137.32:60495] Client HandShake 
+2018/11/01 18:51:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 18:51:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-False 
+2018/11/01 18:51:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] ClientInfoRPC-False 
+2018/11/01 18:51:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with ClientInfoRPC -  
+2018/11/01 18:51:33 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 18:51:35 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with ClientInfoRPC 
+2018/11/01 18:51:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmProfile 
+2018/11/01 18:54:33 [Server] Starting 
+2018/11/01 18:54:33 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\
+        DefaultImagePath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Media
+        DefaultWebPath: E:\Download\SmoONE-master\SmoONE-master\Source\SmoONE.UI\bin\Debug\Resources\Web
+ 
+2018/11/01 18:54:34 [Server] Started 
+2018/11/01 18:54:34 [AutoSet] Start 
+2018/11/01 18:54:42 [192.168.137.32:60498] ClientAccept 
+2018/11/01 18:54:42 [192.168.137.32:60498] Client HandShake 
+2018/11/01 18:54:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] STTP-NewClient 
+2018/11/01 18:54:42 [192.168.137.32-3C54D981_3994_4FB7_A0A2_34F826E37BDA] {"deviceOS":"IOS","deviceOSVersion":"11.2.1","deviceModel":"iPhone10,3","screenSize":{"width":1125,"height":2436},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2018/11/01 18:54:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Starting with NewClient -  
+2018/11/01 18:54:43 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLogon 
+2018/11/01 18:54:44 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] OnStart-Started with NewClient 
+2018/11/01 18:55:00 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmWork 
+2018/11/01 18:55:09 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLeaveCreate 
+2018/11/01 18:55:24 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheckOrCCTo 
+2018/11/01 18:55:26 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheckOrCCTo 
+2018/11/01 18:55:26 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmLeaveCreate 
+2018/11/01 18:55:28 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheckOrCCTo 
+2018/11/01 18:55:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheckOrCCTo 
+2018/11/01 18:55:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmLeaveCreate 
+2018/11/01 18:55:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmLeaveCreate 
+2018/11/01 18:55:42 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:55:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
+2018/11/01 18:55:59 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheck 
+2018/11/01 18:55:59 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:56:02 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRBCreate 
+2018/11/01 18:56:04 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRBCostCenter 
+2018/11/01 18:56:10 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRBCostCenter 
+2018/11/01 18:56:10 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmRBCreate 
+2018/11/01 18:56:11 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRBCostCenter 
+2018/11/01 18:56:15 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRBCostCenter 
+2018/11/01 18:56:15 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmRBCreate 
+2018/11/01 18:56:17 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRBCreate 
+2018/11/01 18:56:17 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:56:19 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRBRows 
+2018/11/01 18:56:21 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRowsCreate 
+2018/11/01 18:56:22 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmRTypeTempChoose 
+2018/11/01 18:56:25 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRTypeTempChoose 
+2018/11/01 18:56:25 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmRowsCreate 
+2018/11/01 18:56:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRowsCreate 
+2018/11/01 18:56:29 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmRBRows 
+2018/11/01 18:56:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmRBRows 
+2018/11/01 18:56:30 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:56:32 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmLeaveCreate 
+2018/11/01 18:56:46 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheckOrCCTo 
+2018/11/01 18:56:47 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheckOrCCTo 
+2018/11/01 18:56:47 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmLeaveCreate 
+2018/11/01 18:56:49 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheckOrCCTo 
+2018/11/01 18:56:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmCheckOrCCTo 
+2018/11/01 18:56:51 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmLeaveCreate 
+2018/11/01 18:56:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Close-frmLeaveCreate 
+2018/11/01 18:56:53 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Refresh-Pop-frmWork 
+2018/11/01 18:56:59 [3C54D981_3994_4FB7_A0A2_34F826E37BDA] Show-frmCheck 
